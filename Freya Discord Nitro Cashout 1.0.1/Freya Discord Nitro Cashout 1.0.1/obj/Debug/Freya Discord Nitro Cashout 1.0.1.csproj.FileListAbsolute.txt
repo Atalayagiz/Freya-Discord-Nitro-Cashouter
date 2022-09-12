@@ -1,0 +1,15 @@
+C:\Users\ygzat\source\repos\Freya Discord Nitro Cashout 1.0.1\Freya Discord Nitro Cashout 1.0.1\bin\Debug\Freya Discord Nitro Cashout 1.0.1.exe.config
+C:\Users\ygzat\source\repos\Freya Discord Nitro Cashout 1.0.1\Freya Discord Nitro Cashout 1.0.1\bin\Debug\Freya Discord Nitro Cashout 1.0.1.exe
+C:\Users\ygzat\source\repos\Freya Discord Nitro Cashout 1.0.1\Freya Discord Nitro Cashout 1.0.1\bin\Debug\Freya Discord Nitro Cashout 1.0.1.pdb
+C:\Users\ygzat\source\repos\Freya Discord Nitro Cashout 1.0.1\Freya Discord Nitro Cashout 1.0.1\obj\Debug\Freya Discord Nitro Cashout 1.0.1.csproj.AssemblyReference.cache
+C:\Users\ygzat\source\repos\Freya Discord Nitro Cashout 1.0.1\Freya Discord Nitro Cashout 1.0.1\obj\Debug\Freya Discord Nitro Cashout 1.0.1.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\source\repos\Freya Discord Nitro Cashout 1.0.1\Freya Discord Nitro Cashout 1.0.1\obj\Debug\Freya Discord Nitro Cashout 1.0.1.exe
+C:\Users\ygzat\source\repos\Freya Discord Nitro Cashout 1.0.1\Freya Discord Nitro Cashout 1.0.1\obj\Debug\Freya Discord Nitro Cashout 1.0.1.pdb
+C:\Users\ygzat\source\repos\Old Resources\Yedeklenecekler\Yedeklenecekler\Repos\Freya Discord Nitro Cashout 1.0.1\Freya Discord Nitro Cashout 1.0.1\bin\Debug\Freya Discord Nitro Cashout 1.0.1.exe.config
+C:\Users\ygzat\source\repos\Old Resources\Yedeklenecekler\Yedeklenecekler\Repos\Freya Discord Nitro Cashout 1.0.1\Freya Discord Nitro Cashout 1.0.1\bin\Debug\Freya Discord Nitro Cashout 1.0.1.exe
+C:\Users\ygzat\source\repos\Old Resources\Yedeklenecekler\Yedeklenecekler\Repos\Freya Discord Nitro Cashout 1.0.1\Freya Discord Nitro Cashout 1.0.1\bin\Debug\Freya Discord Nitro Cashout 1.0.1.pdb
+C:\Users\ygzat\source\repos\Old Resources\Yedeklenecekler\Yedeklenecekler\Repos\Freya Discord Nitro Cashout 1.0.1\Freya Discord Nitro Cashout 1.0.1\obj\Debug\Freya Discord Nitro Cashout 1.0.1.csproj.AssemblyReference.cache
+C:\Users\ygzat\source\repos\Old Resources\Yedeklenecekler\Yedeklenecekler\Repos\Freya Discord Nitro Cashout 1.0.1\Freya Discord Nitro Cashout 1.0.1\obj\Debug\Freya Discord Nitro Cashout 1.0.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ygzat\source\repos\Old Resources\Yedeklenecekler\Yedeklenecekler\Repos\Freya Discord Nitro Cashout 1.0.1\Freya Discord Nitro Cashout 1.0.1\obj\Debug\Freya Discord Nitro Cashout 1.0.1.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\source\repos\Old Resources\Yedeklenecekler\Yedeklenecekler\Repos\Freya Discord Nitro Cashout 1.0.1\Freya Discord Nitro Cashout 1.0.1\obj\Debug\Freya Discord Nitro Cashout 1.0.1.exe
+C:\Users\ygzat\source\repos\Old Resources\Yedeklenecekler\Yedeklenecekler\Repos\Freya Discord Nitro Cashout 1.0.1\Freya Discord Nitro Cashout 1.0.1\obj\Debug\Freya Discord Nitro Cashout 1.0.1.pdb
